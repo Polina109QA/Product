@@ -10,5 +10,7 @@ public class Develop {
 
     public static void DoSomething () {
         System.out.println("121223");
+        System.out.println("-------");
+        System.out.println("print");
     }
 }
