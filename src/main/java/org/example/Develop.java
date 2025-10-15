@@ -7,4 +7,8 @@ public class Develop {
         System.out.println("222");
         System.out.println("33333");
     }
+
+    public static void DoSomething () {
+        System.out.println("121223");
+    }
 }
